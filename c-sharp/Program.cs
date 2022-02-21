@@ -6,10 +6,10 @@ namespace c_sharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("   / |");
-            Console.WriteLine("  /  |");
-            Console.WriteLine(" /   |");
-            Console.WriteLine("/____|");
+            string characterName = "John";
+            int age = 35; 
+
+            Console.WriteLine(characterName + " is " + age);
 
 
 
